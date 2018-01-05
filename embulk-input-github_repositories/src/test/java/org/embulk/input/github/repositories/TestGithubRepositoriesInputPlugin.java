@@ -1,4 +1,4 @@
-package org.embulk.input.github_repositories;
+package org.embulk.input.github.repositories;
 
 public class TestGithubRepositoriesInputPlugin
 {
